@@ -1,6 +1,6 @@
 # ClassifyMe Models
 
-This are the ClassifyMe Machine Learning models responsible for the course recommendations.
+These are the ClassifyMe Machine Learning models responsible for the course recommendations.
 
 ## How to install and run the project
 1. Clone the repository using git clone 
