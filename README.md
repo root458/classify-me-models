@@ -2,7 +2,7 @@
 
 These are the ClassifyMe Machine Learning models responsible for the course recommendations.
 
-## How to install and run the project
+## How to install and run them
 1. Clone the repository using git clone 
 ```bash
 git clone https://github.com/root458/classify-me-models.git
