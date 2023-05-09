@@ -8,7 +8,7 @@ These are the ClassifyMe Machine Learning models responsible for the course reco
 git clone https://github.com/root458/classify-me-models.git
 ```
 2. Launch [Google Colab](https://colab.research.google.com/)
-3. Import the notebooks in the repository, one by one, by navigating to the File tab then clicking Upload notebook. Proceed to select the notebook from your computer.
+3. Import the notebooks from the cloned repository, one by one, by navigating to the File tab then clicking Upload notebook. Proceed to select the notebook from your computer.
 4. Download the dataset files from [here](https://drive.google.com/drive/folders/1lda8c7Mf2gqfbqg_Xd6gmM3wmjqTHjhz) and upload them to the notebook environment by navigating to the files section on the left pane. The files of interest here are: 
 ```course_catalogue.csv```
 ```historical_data.csv```
