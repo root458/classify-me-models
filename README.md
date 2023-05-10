@@ -1,6 +1,7 @@
 # ClassifyMe Models
 
-These are the ClassifyMe Machine Learning models responsible for the course recommendations.
+These is the ClassifyMe Machine Learning models responsible for the course recommendations. It is a collaborative filtering model using KNNBaseline from the scikit-surprise module. 
+It is supposed to help high school students transitioning to university pick the best courses suited for them based on both grades and interest. The 3 predicted courses are ranked based on job market satisfaction rating.
 
 ## How to install and run them
 1. Clone the repository using git clone 
@@ -12,7 +13,7 @@ git clone https://github.com/root458/classify-me-models.git
 4. Download the dataset files from [here](https://drive.google.com/drive/folders/1lda8c7Mf2gqfbqg_Xd6gmM3wmjqTHjhz) and upload them to the notebook environment by navigating to the files section on the left pane. The files of interest here are: 
 ```course_catalogue.csv```
 ```historical_data.csv```
-```student_data.csv```
+
 5. Run and have fun with the notebooks!
 
 ## Contributing
