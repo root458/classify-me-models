@@ -1,4 +1,4 @@
-# ClassifyMe Models
+# ClassifyMe Model
 
 These is the ClassifyMe Machine Learning models responsible for the course recommendations. It is a collaborative filtering model using KNNBaseline from the scikit-surprise module. 
 It is supposed to help high school students transitioning to university pick the best courses suited for them based on both grades and interest. The 3 predicted courses are ranked based on job market satisfaction rating.
